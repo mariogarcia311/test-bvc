@@ -12,6 +12,9 @@ npm i
 npm run dev
 ```
 
+La app también se encuentra desplegada en vercel
+https://test-bvc.vercel.app/
+
 # Respuestas
 
 ## 1. Criterios para diseñar la UI de productos financieros

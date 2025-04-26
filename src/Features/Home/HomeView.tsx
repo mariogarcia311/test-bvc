@@ -18,7 +18,7 @@ const HomeView = () => {
   if (error) return <div>{error}</div>;
 
   return (
-    <div>
+    <div className="flex flex-col items-center justify-center flex-1 w-[100%]">
       <Suspense
         fallback={
           <div className="text-center py-10">Cargando categorías...</div>
